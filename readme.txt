@@ -4,3 +4,4 @@
 4.git add
   git commit
   git push
+5.测试下git push会把先前提交记录覆盖吗
